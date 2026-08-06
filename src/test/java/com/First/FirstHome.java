@@ -76,7 +76,6 @@ public class FirstHome {
 		{
 			driver.findElement(searchButton).click();
 		}
-	
 
 }
 
