@@ -71,11 +71,11 @@ public class FirstHome {
 			driver.findElement(By.xpath("//div[@aria-label='Wed Aug 5 2026']")).click();
 			Thread.sleep(2000);
 		}
-		
+	
 		public void clickSearchButton()
 		{
 			driver.findElement(searchButton).click();
 		}
-
+	
 }
 
