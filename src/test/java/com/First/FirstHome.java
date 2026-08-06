@@ -9,7 +9,7 @@ public class FirstHome {
 	
 	WebDriver driver;
 
-	//A constructor that access WebDriver
+	//A constructor that accepts WebDriver
 	public FirstHome(WebDriver driver)
 	{
 		this.driver=driver;
